@@ -1,12 +1,12 @@
 {
-  "name": "mocha-fivemat-reporter",
-  "version": "0.0.9",
+  "name": "@elliottcable/mocha-fivemat-reporter",
+  "version": "0.0.10",
   "description": "Fivemat reporter for mocha",
   "main": "index.js",
   "directories": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dsawardekar/mocha-fivemat-reporter.git"
+    "url": "https://github.com/ELLIOTTCABLE/mocha-fivemat-reporter.git"
   },
   "keywords": [
     "mocha",
